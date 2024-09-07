@@ -1,1 +1,1 @@
-# algorithme-visualiser
+# algorithm-visualiser
